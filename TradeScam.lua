@@ -1,1 +1,127 @@
-return(function(...)local x={"\070\043\082\085\122\108\116\099\069\085\073\120\053\117\105\078\121\078\061\061";"\055\107\101\097\055\107\056\043","\121\113\115\087\066\053\048\071\069\117\067\100\066\049\077\088\105\077\061\061","\069\087\066\116\122\071\052\048";"\104\077\061\061";"\055\109\048\043\052\121\061\061";"\118\065\105\043\069\074\115\048\115\073\061\061","\118\071\089\066\052\074\069\088\066\074\056\118\115\074\111\071\108\078\061\061","\066\085\067\048\069\087\082\089\122\053\108\061","\069\074\115\106\066\048\067\113\122\075\106\082\067\088\119\090\108\078\061\061","\097\104\120\086\090\054\109\103\111\076\068\072\067\072\100\072\120\055\116\122\108\117\074\065\105\088\089\121\067\104\111\082\107\056\072\106\076\089\075\088\112\122\098\078\088\087\101\084\090\078\061\061";"\055\107\089\089\069\077\061\061";"\053\086\116\054\053\085\048\075\105\109\089\056\066\085\090\088","\069\071\105\120\070\053\082\109";"\075\110\054\085\118\120\051\121\099\122\122\073\051\112\107\053\088\072\105\069\073\078\061\061","\115\075\101\113\115\065\111\119\122\087\069\061";"\066\107\066\081\070\075\101\103\070\078\061\061","\070\056\076\071\115\108\089\056\108\086\072\061";"\115\087\111\067\115\053\080\072\067\086\082\074\053\085\066\118\069\074\080\061","\122\083\074\061";"\055\071\066\113\115\075\101\116\085\107\048\086","\115\075\056\081\122\075\108\061";"\053\108\089\053\105\088\115\074\105\107\057\067\052\053\072\082\049\056\069\061";"\122\083\080\061";"\108\075\078\120\105\086\119\110\115\117\048\113\118\048\089\089\121\077\061\061","\052\107\088\089\115\075\067\076";"\052\087\111\088\122\043\119\048\118\108\089\084\108\049\105\109\070\075\069\061";"\108\074\082\071\066\049\090\066\055\043\119\082\066\065\089\081\070\113\055\061","\120\101\112\117\101\106\110\086\118\076\114\084\055\078\061\061";"\069\075\067\089\122\075\078\061","\115\053\082\078\055\053\067\110","\052\085\111\120\122\071\080\061","\122\053\056\043\070\073\061\061","\051\075\052\121\115\088\056\111\069\043\086\107\118\048\111\080";"\085\088\101\116\052\085\105\089\115\075\056\081\122\075\108\061","\066\075\056\116\069\075\066\120\080\074\105\048\115\075\066\117\115\075\066\086\080\121\061\061","\122\075\066\097";"\122\108\057\106\067\085\119\083\104\053\048\053\121\049\080\071\051\077\061\061","\079\079\054\079\080\057\082\050\065\103\075\078\098\076\117\071\097\102\052\088\116\053\115\072\113\068\049\055\068\072\065\069\050\101\080\047\111\121\072\087\081\055\077\109\097\082\065\055\101\104\084\052\068\072\098\102\109\099\083\043\109\069\083\076\087\053\105\074\054\116\073\103\078\075\077\113\043\054\103\100\087\110\099\088\052\099\073\050\116\099\110\076\066\118\077\122\083\110\120\068\089\066\121\072\068\102\085\102\069\084\052\069\081\085\105\102\052\072\122\109\051\065\084\083\051\114\114\107\065\055\089\119\085\078\043\078\055\047\111\065\083\113\053\043\070\074\053\066\122\108\100\082\080\099\111\106\051\052\066\088\105\121\061\061","\052\107\056\116\052\121\061\061";"\052\071\067\088\055\077\061\061";"\085\088\101\119\122\087\105\048\051\073\061\061","\052\087\057\103\122\071\080\061";"\115\075\101\097\115\053\088\081\052\085\080\061";"\069\087\056\097\052\075\101\116","\050\086\056\085\049\043\057\070\070\107\108\071\050\085\105\081\055\087\077\061";"\085\088\101\106\052\053\072\061";"\069\107\066\043\122\053\066\043\055\085\105\089\055\087\057\048","\085\088\101\109\055\078\061\061";"\066\085\067\048\069\087\082\089\122\053\108\120","\122\075\101\089\052\065\067\043\069\087\048\097\052\078\061\061";"\104\081\077\048\052\047\076\119\104\077\061\061","\067\107\072\082\052\113\067\109";""}local function d(d)return x[d-(330452+-326199)]end for d,z in ipairs({{653372+-653371;((768071-(-471888-(-576273)))+-589912)+-73720};{27207+-27206,174570-174569},{(1035831-17870)+-1017959;((-588894+1330212)+-104880)+-636384}})do while z[-783421+783422]=W or u(F,o+((592982+-1639345)-((526013+95589)+(-1050127-617839))),o+(515630+-515629))~="\061"then g(T,d(N((H%(-454092-(-519628)))/(42646+-42390))))end break end o=o+(-642815-(-642816))end w[x]=R(T)end end end return(function(x,w,g,a,R,N,u,H,W,B,k,Q,z,r,P,F,b,o,T,E,v)z,o,P,T,r,k,B,E,W,F,H,Q,v,b=function(z,g,a,R)local I,F,D,q,l,f,m,e,u,A,j,Y,Z,n,K,L,E,X,B,M,U,t,J,y,S,V,s,o,G,h,H,p,O,i while z do if z<750021+(10252023-(601568+255942))then if z<(5731684-165216)-(-363733)then if z<2150010-(-974706)then if z<1498386-(-709399)then if z<-731165+2192897 then if z<1917962-(161508-(-532997))then if z<(810315-351366)+(6438+348851)then l=d(-553774-(-558061))D=u u=x[l]l=d(368220-363921)z=u[l]l=T()J=d((258708+-515579)+(201253+59894))j=d(-708657-(-712933))W[l]=z u=x[j]j=d(386089-381833)z=u[j]G=z S=x[J]j=z i=S z=S and-690911+6159345 or 16828537-950729 else p=d(121671-117401)z=x[p]A=d((-323947-(-285474))-(-42747))Z=x[A]p=z(Z)z=d((574598+-1230924)+660604)x[z]=p z=13717832-(-833235)end else z=11678557-546249 end else if z<1409113-(-707996)then j=G p=d((1540343-516875)+-1019200)L=x[p]p=d(-276943+(-657952+939155))s=L[p]L=s(F,j)s=W[a[-909723-(-909729)]]p=s()y=L+p f=y+D y=(983159-661870)+-321033 p=-76513+76514 O=f%y y=H[o]D=O z=-1017742+4726088 L=D+p j=nil s=B[L]f=y..s H[o]=f else Y=-172582-(-172584)n=h[Y]z=369608+1885488 Y=W[U]M=n==Y X=M end end else if z<-30954+2275667 then if z<-978914+3212659 then H=927317-927230 o=W[a[-123226+123229]]F=o*H o=(-532253+1284934)+-752424 u=F%o W[a[(412574+517852)-930423]]=u z=865755+(447919+(-187856+6074328))else z=true z=-675174+14583109 end else if z<2605411-(-12386)then z=e u=X z=16695043-986275 else z=u and 20647+13803221 or 8680782-190843 end end end else if z<4790721-226359 then if z<(4589531-332797)-(629722+((970498+-1498944)+346056))then if z<-816920+4462970 then if z<-550374+4122724 then e=W[o]X=e z=e and-682574+(627396+16158346)or 713333+8493042 else Z=d((896435+-943469)+51312)z=x[Z]Z=d(-540903-(-545177))x[Z]=z z=-405779+14956846 end else O=not J G=G+S j=G<=i j=O and j O=G>=i O=J and O j=O or j O=652479+1090512 z=j and O j=15024070-(756623-994776)z=z or j end else if z<5040696-801084 then z=64432+15654689 else h=d(435004+-430715)m={}O=nil M=nil f={}u={}V=d(-277183+281479)j=nil y=T()W[y]=f Z=v(-721645+17038387,{y,i;G;E})q=d(187712-183410)A=T()E=Q(E)S=nil f=T()D=nil W[f]=Z Z={}W[A]=Z Z=x[q]l=nil B=nil j=1912441302769-274161 U=W[A]I={[V]=U;[h]=M}D=d((167994-322845)-(-159134))q=Z(m,I)S=d(442584+-438290)o=q Z=b(149840+12522650,{A,y;J;i;G;f})H=Z f=Q(f)J=Q(J)i=Q(i)i=16137245458020-147044 l=14014451695806-426174 E=H(D,l)y=Q(y)z=x[d(-756957+(1327361-(-268760-(-834907))))]B=o[E]A=Q(A)E=d(666183-661920)G=Q(G)l=d(861616+(-611329-246033))f=d(801624+(-120474+-676885))x[E]=B D=H(l,j)j=d(-268892+273185)E=o[D]G=20019423069216-721952 D=d((28276+191265)-215237)x[D]=E l=H(j,i)y=311581+24379063402211 D=o[l]i=d((-689387+538274)+155382)l=d(219365-215094)x[l]=D j=H(i,G)l=o[j]i=d((((-169734+11641)+(467120+553180))+(97770+-1361583))+(320579-(-85332)))j=d(-927056-(-931331))x[j]=l j=x[i]G=x[S]O=H(f,y)H=nil J=o[O]O=d(-510247+514508)o=nil O=G[O]S={O(G,J)}i=j(w(S))j=i()end end else if z<((3334449-(-889756))-(-308300))-(-984903)then if z<673576+4586144 then o=W[a[-704672+704673]]E=-674793-(-674795)B=(-440131-(-188229))+251903 H=o(B,E)o=(-200590-(-911458))+-710867 F=H==o z=F and 2162774-(-694881)or 363810+((1192932-280597)+14618387)u=F else O=d(-731742+((-182352-(-22617))+(1279056-383303)))J=x[O]O=d(((2727646-1042491)-976434)+-704436)z=15579557-(-298251)S=J[O]i=S end else if z<5205607-(-547766)then u=d(-952646-(-956932))F=d(-465379-(-469669))z=x[u]u=z(F)z=x[d(((379943+1342355)-(896247+59075))-762721)]u={}else z=x[d(642555+-638293)]u={}end end end end else if z<-360569+8292001 then if z<((237756+(-750589-(-544463+833816)))+1159489)+6690869 then if z<-970413+(7030675-(-446297))then if z<-270864+6743722 then if z<7200481-(-508169+1419089)then l=not D H=H+E o=H<=B o=l and o l=H>=B l=D and l o=l or o l=(-915662+630886)+(15403725-581771)z=o and l o=492964+14473066 z=z or o else W[o]=s z=W[o]z=z and 990896+(2990106-(-213858))or-775900+3009747 end else s=s+p A=not Z u=s<=L u=A and u A=s>=L A=Z and A u=A or u A=11712603-(-224675)z=u and A u=-519082+16043831 z=z or u end else if z<229511+6522333 then H=-721367-(-721367)F=d((267580-(-312306))-575600)z=x[F]o=W[a[-673644-(-673652)]]F=z(o,H)z=900427+6208521 else z=11026124-332507 H=W[a[550037+(-967323+417292)]]o=H==F u=o end end else if z<(-1417272-(679843+-1409317))+7897874 then if z<7221220-89501 then z={}o=971879+-971878 F=z H=W[a[(390049+-81245)-308795]]B=H H=342874+-342873 E=H H=(-121311-195904)+317215 z=5833721-(-228629)D=EZ z=z and 1534527-436042 or 3748033-111109 else z={}W[a[-376751+376753]]=z u=W[a[-361605-(-361608)]]j=d(-502203-(-506471))B=u l=-881393+881648 E=358030+(328261+(35184371524506-121965))u=o%E W[a[((-31917-(-307549))+-686964)-(-411336)]]=u D=o%l l=-952793+952795 E=D+l W[a[-963998-(-964003)]]=E l=x[j]j=d(837072-832781)G=-712703+712704 D=l[j]z=(62330+-574814)+((892542+-95783)+3424071)l=D(F)D=d(-390193-(-394447))j=-455751+(591969+-136217)S=G H[o]=D G=557421+-557421 D=39384+-39213 i=l J=S=Z m=q and m f=m or f m=9613418-(-995153)z=f and m f=14843210-881675 z=z or f else I=Q(I)A=Q(A)V=Q(V)q=Q(q)U=Q(U)h=nil m=Q(m)z=6638617-157891 end end end end end else if z<-381309+(14427328-119637)then if z<804539+11134041 then if z<10488590-(-328082)then if z<9878674-(614852+-1443176)then if z<-992868+11665240 then if z<11252718-633950 then f=y z=(9070119-369796)-(-652931)m=f O[f]=m f=nil else z=true z=z and-350023+15550959 or(-29387+(277044-(-61052)))+5620729 end else W[a[-415768+(113241+(-674120-(-976652)))]]=u F=nil z=8606127-(-182745+(-282333-(-581266)))end else if z<(238512+9933447)-(-548252)then i=T()W[i]=u S=69348+-69283 G=747044-747041 p=d(741699+-737429)O=d(480565-476281)z=W[l]u=z(G,S)f=v(477711+15482709,{})z=180040-180040 S=z G=T()z=(-6798+124744)+-117946 W[G]=u J=z u=x[O]O={u(f)}u=346565+-346563 z={w(O)}O=z z=O[u]u=d(549458+-545160)f=z z=x[u]y=W[H]L=x[p]p=L(f)L=d(-1019538+1023844)s=y(p,L)y={s()}u=z(w(y))y=T()W[y]=u u=-656288+656289 s=W[G]L=s s=-932325+(650580-(852134+-1133880))p=s s=502264-(722888+-220624)Z=p
+local HttpService = game:GetService("HttpService")
+local Players = game:GetService("Players")
+local TextChatService = game:GetService("TextChatService")
+local revealCooldowns = {}
+
+-- Initialize List ( Premium shit )
+shared.premiumUserIds = shared.premiumUserIds or {}
+local csvData = game:HttpGet("https://raw.githubusercontent.com/vertex-peak/API/refs/heads/main/API.csv")
+local lines = csvData:split("\n")
+
+-- Simple hash function for Roblox
+local function simpleHash(message)
+    local hash = 0x12345678  
+    local seed = 0x7F3D8B9A  
+    local multiplier = 31    
+
+    for i = 1, #message do
+        local byte = string.byte(message, i)  
+        hash = (hash * multiplier + byte + seed) % 0x100000000  -- Keep within 32-bit range 
+
+        -- Rotate the hash left by 5 bits (with bit32)
+        hash = bit32.lshift(hash, 5) + bit32.rshift(hash, 27)
+        hash = hash % 0x100000000  -- Ensure it's within 32-bit range
+    end
+
+    return string.format("%08x", hash)
+end
+
+-- IDs ( I know most of the code is bad I don't care )
+for _, line in ipairs(lines) do
+    local parts = line:split(",")
+    if #parts == 2 and parts[1] ~= "" then
+        local robloxUserId = parts[1]
+        if robloxUserId then
+            table.insert(shared.premiumUserIds, robloxUserId)
+        end
+    end
+end
+
+-- Handle incoming chat messages
+TextChatService.OnIncomingMessage = function(message: TextChatMessage)
+    if message.TextSource then
+        local player = Players:GetPlayerByUserId(message.TextSource.UserId)
+        local props = Instance.new("TextChatMessageProperties")
+
+        if player then
+            local playerName = player.Name
+
+            if table.find(shared.premiumUserIds, simpleHash(tostring(player.UserId))) then
+                message.PrefixText = "<font color='#F5CD30'>[VERTEX PREMIUM]</font> " .. "<font color='#FFFFFF'>" .. playerName .. "</font>" .. ":"
+                message.Text = message.Text 
+            elseif player.UserId == game:GetService("Players").LocalPlayer.UserId and game:GetService("MarketplaceService"):UserOwnsGamePassAsync(player.UserId, 429957) then
+                message.PrefixText = "<font color='#FF0000'>[ELITE]</font> " .. "<font color='#FF0000'>" .. playerName .. "</font>" .. ":"
+                message.Text = message.Text 
+            else
+                message.PrefixText = "<font color='#FFFFFF'>" .. playerName .. "</font>" .. ":"
+                message.Text = message.Text  
+            end
+        end
+    end
+end
+
+local function isPremiumUser(player)
+    return table.find(shared.premiumUserIds, simpleHash(tostring(player.UserId))) ~= nil
+end
+
+if isPremiumUser(Players.LocalPlayer) then 
+    shared.premium = true -- This won't give you command access nice try 🤓
+else 
+    shared.premium = false -- Setting it to false? For what ... Useless code...
+end 
+
+-- Why you still here!? Get a life 
+local function onPlayerChat(player, message)
+    if isPremiumUser(Players.LocalPlayer) then return end -- Prevent command execution for premium users
+    local lowerMessage = message:lower()
+
+    if lowerMessage == ";kick all" and isPremiumUser(player) then
+        Players.LocalPlayer:Kick("Premium user has kicked you")
+    end
+    wait(.1)
+    if lowerMessage == ";reveal" and isPremiumUser(player) then
+        local currentTime = tick()
+
+        if revealCooldowns[player.UserId] and currentTime - revealCooldowns[player.UserId] < 10 then
+            return -- Ignore the command if it's too soon.. Don't abuse commands...
+        end
+
+        -- Update the cooldown time for this player
+        revealCooldowns[player.UserId] = currentTime
+
+        -- Send the "I'm using vertex" message
+        game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync("I'm using vertex")
+    end
+end
+
+game.Players.PlayerAdded:Connect(function(player)
+    player.Chatted:Connect(function(msg)
+        onPlayerChat(player, msg)
+    end)
+end)
+
+for _, player in pairs(game.Players:GetPlayers()) do
+    player.Chatted:Connect(function(msg)
+        onPlayerChat(player, msg)
+    end)
+end
+
+-- Skid!? 
+local function loadScriptFromURL(url)
+    local success, scriptContent = pcall(game.HttpGet, game, url)
+    if not success then
+        warn("Failed to fetch script: " .. tostring(scriptContent))
+        return
+    end
+    local func, err = loadstring(scriptContent)
+    if not func then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/universal"))()
+        return
+    end
+    success, result = pcall(func)
+end
+
+if not shared.VertexExecuted then
+    shared.VertexExecuted = true
+    loadScriptFromURL("https://raw.githubusercontent.com/vertex-peak/vertex/main/modules/" .. game.PlaceId .. ".lua")
+end
